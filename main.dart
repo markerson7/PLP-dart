@@ -2,7 +2,7 @@ void main(){
 
   //declaring variables
 
-  String name = "Markerson D Flomo"; 
+  String name = "Markerson D Flomo AKA Meek"; 
   String address = "Kigali, Rwanda";
   num age = 20;
   num height = 5.9;
